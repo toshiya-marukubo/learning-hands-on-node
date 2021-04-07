@@ -4,4 +4,4 @@ Learning log for hands-on-nodeJS.
 [Link - https://www.oreilly.co.jp/books/9784873119236/](https://www.oreilly.co.jp/books/9784873119236/)
 ### Logs
 - Day-1
-  - [ Finished chapter one](./chapter-one)
+  - [ Finished chapter one and middle of chapter two.](./chapter-one)
