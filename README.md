@@ -5,3 +5,4 @@ Learning log for hands-on-nodeJS.
 ### Logs
 - Day-1
   - [ Finished chapter one and middle of chapter two.](./chapter-one)
+  - [ Middle of chapter two.](./chapter-two)
