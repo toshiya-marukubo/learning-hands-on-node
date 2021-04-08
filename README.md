@@ -1,5 +1,6 @@
 # Learning-hands-on-node
-Learning log for hands-on-nodeJS.
+Learning log for hands-on-nodeJS.  
+I only write code because I need to write code to understand it.
 ## What is a Hands-on Node.js ???
 [Book's Link - https://www.oreilly.co.jp/books/9784873119236/](https://www.oreilly.co.jp/books/9784873119236/)
 ### Logs
