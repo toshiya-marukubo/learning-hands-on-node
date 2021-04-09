@@ -11,3 +11,5 @@ I only write code because I need to write code to understand it.
   - [Learned chapter two, generator](./chapter-two/generator)
 - Day-3
   - [Learned chapter two, async await](./chapter-two/async-await)
+  - [Finished chapter two.](./chapter-two)
+    - I have not perfectly understood yet :)
