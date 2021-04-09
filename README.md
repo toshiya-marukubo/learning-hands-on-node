@@ -9,3 +9,5 @@ I only write code because I need to write code to understand it.
   - [Middle of chapter two.](./chapter-two)
 - Day-2
   - [Learned chapter two, generator](./chapter-two/generator)
+- Day-3
+  - [Learned chapter two, async await](./chapter-two/async-await)
