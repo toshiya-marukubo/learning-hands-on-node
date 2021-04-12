@@ -13,3 +13,5 @@ I only write code because I need to write code to understand it.
   - [Learned chapter two, async await](./chapter-two/async-await)
   - [Finished chapter two.](./chapter-two)
     - I have not perfectly understood yet :)
+- Day-4
+  - [learned chapter three, EventEmitter, until 3.1.1](./chapter-three/event-emitter)
