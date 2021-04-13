@@ -14,4 +14,7 @@ I only write code because I need to write code to understand it.
   - [Finished chapter two.](./chapter-two)
     - I have not perfectly understood yet :)
 - Day-4
-  - [learned chapter three, EventEmitter, until 3.1.1](./chapter-three/event-emitter)
+  - [Learned chapter three, EventEmitter, until 3.1.5](./chapter-three/event-emitter)
+- Day-5
+  - [Learned chapter three, finished EventEmitter](./chapter-three/event-emitter)
+    - I'm bored...
