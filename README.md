@@ -18,3 +18,6 @@ I only write code because I need to write code to understand it.
 - Day-5
   - [Learned chapter three, finished EventEmitter](./chapter-three/event-emitter)
     - I'm bored...
+- Day-6
+  - [Learned chapter three, stream, until 3.2.1](./chapter-three/stream)
+    - I did not have time today...
