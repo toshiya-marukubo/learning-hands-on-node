@@ -23,3 +23,5 @@ I only write code because I need to write code to understand it.
     - I did not have time today...
 - Day-7
   - [Learned chapter three, stream, until 3.2.3](./chapter-three/stream)
+- Day-8
+  - [Learned chapter four, mult process ipc, until 4.3](./chapter-four/)
