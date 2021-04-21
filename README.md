@@ -25,3 +25,5 @@ I only write code because I need to write code to understand it.
   - [Learned chapter three, stream, until 3.2.3](./chapter-three/stream)
 - Day-8
   - [Learned chapter four, mult process ipc, until 4.3](./chapter-four/)
+- Day-9
+  - [Learned chapter four, multi thread](./chapter-four/worker-threads)
