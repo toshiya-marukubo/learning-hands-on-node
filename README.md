@@ -32,4 +32,4 @@ I only write code because I need to write code to understand it.
 - Day-11
   - [Learned chapter five, react todo](./chapter-five/todo-express)
 - Day-12
-  - [Learned chapter six, Server Sent Event](./chapter-siz/todo-see)
+  - [Learned chapter six, Server Sent Event](./chapter-six/todo-see)
