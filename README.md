@@ -29,3 +29,7 @@ I only write code because I need to write code to understand it.
   - [Learned chapter four, multi thread](./chapter-four/worker-threads)
 - Day-10
   - [Learned chapter five, express](./chapter-five/todo-express)
+- Day-11
+  - [Learned chapter five, react todo](./chapter-five/todo-express)
+- Day-12
+  - [Learned chapter six, Server Sent Event](./chapter-siz/todo-see)
