@@ -34,4 +34,4 @@ I only write code because I need to write code to understand it.
 - Day-12
   - [Learned chapter six, Server Sent Event](./chapter-six/todo-see)
 - Day-13
-  - [Learned chapter six, websocket](./chapter-size/todo-socket-io)
+  - [Learned chapter six, websocket](./chapter-six/todo-socket-io)
